@@ -2,6 +2,7 @@ body{
     font-family: 'Roboto', sans-serif;
     color: #595959;  
     line-height: 1.5em;
+    overflow: hidden;
   
 }
 span{
@@ -65,7 +66,7 @@ a:hover{
 }
 
 .interests{    
-    
+
     clear: both;
     
 
