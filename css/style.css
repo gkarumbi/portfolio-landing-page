@@ -50,6 +50,10 @@ a:hover{
     width: 350px;
 } 
 
+img:hover {
+    filter:grayscale(50%);
+
+}
 
 .projects{
     width: 350px;
