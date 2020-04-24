@@ -1,13 +1,13 @@
-#Portfolio-Landing-Page
+# Portfolio-Landing-Page
 
-##Pre-requsites
+## Pre-requsites
 Basic knowledge in HTML and CSS
 
-##Requirements
+## Requirements
 -Text Editor;  VsCode, Atom not mandatory but preffered
 -Git knowledge with the latest version installed
 
-###Technologies Used
+### Technologies Used
 - HTML and CSS
 - Atom, VSCode
 - Terminal/Command Line Interface
