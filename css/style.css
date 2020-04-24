@@ -15,10 +15,13 @@ h2,h3,a{
     text-decoration: none;
     text-transform: uppercase;
 }
+
+em{
+    font-style: italic;
+}
 a:hover{
     color: #595959;
 }
-
 
 .header {
     width: 100%;
