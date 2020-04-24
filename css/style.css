@@ -11,7 +11,7 @@ body{
     font-family: 'Roboto', sans-serif;
     color: #595959;  
     line-height: 1.5em;
-    overflow: hidden;
+    overflow: scroll;
   
 }
 span{
@@ -24,6 +24,10 @@ h2,h3,a{
     font-size: 18px;
     text-decoration: none;
     text-transform: uppercase;
+}
+
+h1:hover{
+   opacity: 0.8;
 }
 
 em{
