@@ -1,13 +1,10 @@
 
-@media screen and (max-device-width: 480px) and (orientation: portrait){
+@media screen and (max-device-width: 480px) {
     body{
         display: flex;
-        flex-direction: row;
-        flex-wrap:wrap;
-        overflow-y: visible;
-        overflow-x: visible;
-
-        background-color: burlywood;
+        flex-direction: column;
+        background-color: lightcoral;
+        
     }
   }
 body{
