@@ -1,3 +1,15 @@
+
+@media screen and (max-device-width: 480px) and (orientation: portrait){
+    body{
+        display: flex;
+        flex-direction: row;
+        flex-wrap:wrap;
+        overflow-y: visible;
+        overflow-x: visible;
+
+        background-color: burlywood;
+    }
+  }
 body{
     font-family: 'Roboto', sans-serif;
     color: #595959;  
